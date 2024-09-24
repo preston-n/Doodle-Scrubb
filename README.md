@@ -10,6 +10,6 @@ most skilled player can come out victorious!
 ![Title](https://github.com/preston-n/Doodle-Scrubb/blob/main/Screenshots/Doodle%26Scrubb_1_hi_res.jpg?raw=true)
 ![Title](https://github.com/preston-n/Doodle-Scrubb/blob/main/Screenshots/Doodle%26Scrubb_2_hi_res.jpg?raw=true)
 ![Title](https://github.com/preston-n/Doodle-Scrubb/blob/main/Screenshots/Doodle%26Scrubb_3_hi_res.jpg?raw=true)
-![Title](https://github.com/preston-n/Doodle-Scrubb/blob/main/Screenshots/Doodle%26Scrubb_title_hi_res.jpg?raw=true)    
+
 
 
