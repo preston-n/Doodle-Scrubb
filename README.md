@@ -6,6 +6,7 @@ Doodle sees destruction and chaos… now! Play against each other in a cat-and-m
 most skilled player can come out victorious!
 * **Role:** Tech Lead & Gameplay Programmer
 * *Made in Unreal and with C++*
+![Title](https://github.com/preston-n/Doodle-Scrubb/blob/main/Screenshots/Doodle%26Scrubb_title_hi_res.jpg?raw=true)
     
 
 
