@@ -11,11 +11,13 @@ most skilled player can come out victorious!
     * Accessibility and other general Settings
     * UI 
 * *Made in Unreal and with C++*
-* Title Screen
+  
+# Screenshots
+Title Screen
 ![Gameplay](https://github.com/preston-n/Doodle-Scrubb/blob/main/Screenshots/Doodle%26Scrubb_title_hi_res.jpg?raw=true)
 
 Bubble Gun trapping Doodle
-![Bubble Gun trapping Doodle](https://github.com/preston-n/Doodle-Scrubb/blob/main/Screenshots/Doodle%26Scrubb_1_hi_res.jpg?raw=true)
+![Gameplay](https://github.com/preston-n/Doodle-Scrubb/blob/main/Screenshots/Doodle%26Scrubb_1_hi_res.jpg?raw=true)
 
 Shotgun in action
 ![Gameplay](https://github.com/preston-n/Doodle-Scrubb/blob/main/Screenshots/Doodle%26Scrubb_2_hi_res.jpg?raw=true)
