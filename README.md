@@ -10,7 +10,7 @@ most skilled player can come out victorious!
     * Character interactions 
     * Accessibility and other general Settings
     * UI 
-* *Made in Unreal and with C++*
+* *Made in Unreal and with C++ and Blueprints*  
   
 # Screenshots
 ### Title Screen
