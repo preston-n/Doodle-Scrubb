@@ -4,12 +4,6 @@
 and the other player takes the role of a mischievous cat named Doodle. Scrubb was designed to keep the house clean, but 
 Doodle sees destruction and chaos… now! Play against each other in a cat-and-mouse style competition, where only the 
 most skilled player can come out victorious!
-* **Role:** Tech Lead & Gameplay Programmer
-* **Some of the worked on features:**
-    * Scrubb Weapons and Bullet effects
-    * Character interactions 
-    * Accessibility and other general Settings
-    * UI 
 * *Made in Unreal and with C++ and Blueprints*  
   
 # Screenshots
